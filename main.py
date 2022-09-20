@@ -1,7 +1,7 @@
 def password(p):
-    if p == "Knights21":
+    if p == "Knights19":
         print("ACCESS GRANTED")
     else:
         print("ACCESS DEINED")
 
-password("Knights21")
+password("Knights19")
